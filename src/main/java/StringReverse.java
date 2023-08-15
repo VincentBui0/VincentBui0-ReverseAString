@@ -12,7 +12,7 @@ public class StringReverse {
      * @param str a String.
      * @return the reverse of str.
      */
-    public String reverse(String str){
+    public String reverse (String str) {
         if(str == null) {
             return null;
         }
